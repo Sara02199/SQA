@@ -1,0 +1,4 @@
+int a,s
+read a,s
+sum= a+s
+print"sum"
